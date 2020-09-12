@@ -7,4 +7,4 @@ Data Required:
 
 Sea level Project, RSME of Sea Level and RSME of Digital Elevation/Terrain Model.
 
-The result is equal of Sea Level Impact of Terrset software.
+The result is based on Sea Level Impact of Terrset software (Clark Labs, 2020).
